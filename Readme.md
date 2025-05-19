@@ -1,10 +1,10 @@
-# Stock Analyzer
+# Stock Comparer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![yfinance](https://img.shields.io/badge/powered%20by-yfinance-brightgreen.svg)](https://github.com/ranaroussi/yfinance)
 
-A comprehensive Python tool for analyzing stocks from both value investing and growth/momentum perspectives. Stock Analyzer helps you make more informed investment decisions by evaluating key financial metrics, comparing companies, and identifying promising opportunities based on your investment philosophy.
+A comprehensive Python tool for analyzing stocks from both value investing and growth/momentum perspectives. Stock Comparer helps you make more informed investment decisions by evaluating key financial metrics, comparing companies, and identifying promising opportunities based on your investment philosophy.
 
 ![Example Analysis](docs/images/example_analysis.png)
 *Note: Replace with an actual screenshot of the analysis output when available*
@@ -42,8 +42,8 @@ A comprehensive Python tool for analyzing stocks from both value investing and g
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stock-analyzer.git
-cd stock-analyzer
+git clone https://github.com/Chinmay4285/Stock_Comparer.git
+cd Stock_Comparer
 ```
 
 2. Create a virtual environment (recommended):
@@ -199,7 +199,7 @@ Each metric includes detailed explanations of what it means, how to interpret it
 ## Project Structure
 
 ```
-stock_analyzer/
+Stock_Comparer/
 │
 ├── stock_analyzer/            # Main package
 │   ├── analyzer.py            # Core analyzer class
@@ -287,4 +287,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-If you find Stock Analyzer useful, please give it a star on GitHub! For questions, issues, or suggestions, please open an issue on the GitHub repository.
+If you find Stock Comparer useful, please give it a star on GitHub! For questions, issues, or suggestions, please open an issue on the GitHub repository at https://github.com/Chinmay4285/Stock_Comparer.

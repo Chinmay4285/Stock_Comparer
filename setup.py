@@ -7,14 +7,14 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
     requirements = fh.read().splitlines()
 
 setup(
-    name="stock-analyzer",
+    name="stock-comparer",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Chinmay Yalameli",
+    author_email="chinmaysy@gmail.com",
     description="A comprehensive tool for stock analysis from value and growth perspectives",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/stock-analyzer",
+    url="https://github.com/Chinmay4285/Stock_Comparer",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
